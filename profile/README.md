@@ -3,5 +3,5 @@
 <p align="center">
 
 
-  <img src="https://raw.githubusercontent.com/draw-kr/.github/main/draw_logotype1%20(2).png" alt="DRAW logo" />
+  <img src="https://raw.githubusercontent.com/draw-kr/.github/main/draw_logotype1%20(3).png" alt="DRAW logo" />
 </p>
