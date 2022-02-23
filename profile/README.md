@@ -1,4 +1,4 @@
-  <h2 align="center">DRAW ❤️ TCG</h2>
+  <h2 align="center">Draw ❤️ TCG</h2>
 
 <p align="center">
 
